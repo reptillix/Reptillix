@@ -14,9 +14,9 @@
 ### 🚀 What we do
 - **Full-stack development** – web & mobile apps, APIs, integrations  
 - **UX · UI · Branding** – research-driven design that converts  
-- **AI-powered automation** – Python / Node / Terraform on AWS  
+- **AI-powered automation** – Harness the power of Advanced Cloud Infrastructure  
 - **Growth marketing** – data-driven SEO, PPC & CRO campaigns  
-- **CloudOps & DevOps** – CI/CD, Kubernetes, observability (Datadog)
+- **CloudOps & DevOps** – CI/CD, AWS, Containerized Solutions 
 
 ### 🧰 Tech toolbox
 ---
