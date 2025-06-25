@@ -27,12 +27,10 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 📊 GitHub snapshot
-<p align="center">
-  <!-- Stats work on a *user*; keeping reptillix-admin for now -->
-  <img
-  src="https://github-readme-stats.vercel.app/api?username=reptillix-admin&show_icons=true&theme=radical"
-  alt="Reptillix GitHub stats"/>
-</p>
+<!-- Stats work on a *user*; keeping reptillix-admin for now -->
+<img src="https://github-readme-stats.vercel.app/api?username=reptillix-admin&show_icons=true&theme=radical"
+     alt="Reptillix GitHub stats"/>
+
 <sub>*Numbers reflect public activity; private client code stays private.*</sub>
 
 ### 👥 Meet the team
