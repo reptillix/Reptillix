@@ -35,12 +35,12 @@
 </p>
 <sub>*Numbers reflect public activity; private client code stays private.*</sub>
 
-### 👥 Core team
+### 👥 Meet the team
 | &nbsp; | &nbsp; |
 | :-: | :- |
-| <img src="https://github.com/ThePinkPanther96.png?size=100" width="80"/> | **Gal Rozman** – CloudOps & DevOps |
+| <img src="https://github.com/ThePinkPanther96.png?size=100" width="80"/> | **Gal Rozman** – DevOps Engineer |
 | <img src="https://github.com/aviv0zeriRPTX.png?size=100" width="80"/> | **Aviv Ozeri** – Full-Stack Developer |
-| <img src="https://github.com/vpbaki.png?size=100" width="80"/> | **Vlad Baki** – DevOps |
+| <img src="https://github.com/vpbaki.png?size=100" width="80"/> | **Yuval Baki** – Forntend Developer & Marketing |
 
 ### 📬 Connect
 <a href="mailto:marketing@reptillix.com"><img src="https://img.icons8.com/color/28/gmail-new.png" alt="Email"></a>&nbsp;
