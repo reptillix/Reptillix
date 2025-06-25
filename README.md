@@ -19,6 +19,7 @@
 - **CloudOps & DevOps** – CI/CD, Kubernetes, observability (Datadog)
 
 ### 🧰 Tech toolbox
+---
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -27,6 +28,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 📊 GitHub snapshot
+---
 <!-- Stats work on a *user*; keeping reptillix-admin for now -->
 <img src="https://github-readme-stats.vercel.app/api?username=reptillix-admin&show_icons=true&theme=radical"
      alt="Reptillix GitHub stats"/>
@@ -34,6 +36,7 @@
 <sub>*Numbers reflect public activity; private client code stays private.*</sub>
 
 ### 👥 Meet the team
+---
 | &nbsp; | &nbsp; |
 | :-: | :- |
 | <img src="https://github.com/ThePinkPanther96.png?size=100" width="80"/> | **Gal Rozman** – DevOps Engineer |
@@ -41,8 +44,9 @@
 | <img src="https://github.com/vpbaki.png?size=100" width="80"/> | **Yuval Baki** – Forntend Developer & Marketing |
 
 ### 📬 Connect
-<a href="mailto:marketing@reptillix.com"><img src="https://img.icons8.com/color/28/gmail-new.png" alt="Email"></a>&nbsp;
-<a href="https://www.linkedin.com/company/reptillix"><img src="https://img.icons8.com/color/28/linkedin.png" alt="LinkedIn"></a>
+---
+[![gmail](https://img.icons8.com/?size=1x&id=P7UIlhbpWzZm&format=png)](mailto:yuval.baki@reptillix.com)
+[![linkedin](https://img.icons8.com/?size=1x&id=xuvGCOXi8Wyg&format=png)](https://www.linkedin.com/in/reptillix/)
 
 ---
 
