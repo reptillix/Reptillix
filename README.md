@@ -46,7 +46,7 @@
 ### 📬 Connect
 ---
 [![gmail](https://img.icons8.com/?size=1x&id=P7UIlhbpWzZm&format=png)](mailto:yuval.baki@reptillix.com)
-[![linkedin](https://img.icons8.com/?size=1x&id=xuvGCOXi8Wyg&format=png)](https://www.linkedin.com/in/reptillix/)
+[![linkedin](https://img.icons8.com/?size=1x&id=xuvGCOXi8Wyg&format=png)](https://www.linkedin.com/company/reptillix)
 
 ---
 
