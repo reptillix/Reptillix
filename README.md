@@ -16,7 +16,7 @@
 - **UX · UI · Branding** – research-driven design that converts  
 - **AI-powered automation** – Harness the power of Advanced Cloud Infrastructure  
 - **Growth marketing** – data-driven SEO, PPC & CRO campaigns  
-- **CloudOps & DevOps** – CI/CD, AWS, Containerized Solutions 
+- **CloudOps & DevOps** – CI/CD, AWS & Containerized Solutions 
 
 ### 🧰 Tech toolbox
 ---
