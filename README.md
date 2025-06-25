@@ -51,5 +51,5 @@
 ---
 
 <div align="center">
-  <sub>© 2025 Reptillix · Built with 💚 in Haifa</sub>
+  <sub>© 2025 Reptillix</sub>
 </div>
