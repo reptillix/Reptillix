@@ -29,8 +29,9 @@
 ### 📊 GitHub snapshot
 <p align="center">
   <!-- Stats work on a *user*; keeping reptillix-admin for now -->
-  <img src="https://grs-reptillix.vercel.app/api?username=reptillix-admin&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
-  alt="Reptillix GitHub stats" />
+  <img
+  src="https://github-readme-stats.vercel.app/api?username=reptillix-admin&show_icons=true&theme=radical"
+  alt="Reptillix GitHub stats"/>
 </p>
 <sub>*Numbers reflect public activity; private client code stays private.*</sub>
 
