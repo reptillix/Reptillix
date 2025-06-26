@@ -8,7 +8,6 @@
 </div>
 
 ---
-
 ### 🚀 What we do
 - **Full-stack development** – web & mobile apps, APIs, integrations  
 - **UX · UI · Branding** – research-driven design that converts  
@@ -16,8 +15,8 @@
 - **Growth marketing** – data-driven SEO, PPC & CRO campaigns  
 - **DevOps** – Advanced, cloud-base CI/CD solutions 
 
-### 🧰 Tech toolbox
 ---
+### 🧰 Tech toolbox
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
@@ -30,24 +29,24 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![API](https://img.shields.io/badge/API-009688?style=for-the-badge&logo=openapiinitiative&logoColor=white)
 
-### 📊 GitHub snapshot
 ---
+### 📊 GitHub snapshot
 <!-- Stats work on a *user*; keeping reptillix-admin for now -->
 <img src="https://github-readme-stats.vercel.app/api?username=retillix-admin&show_icons=true&theme=radical"
      alt="Reptillix GitHub stats"/>
 
 <sub>*Numbers reflect public activity; private client code stays private.*</sub>
 
-### 👥 Meet the team
 ---
+### 👥 Meet the team
 | &nbsp; | &nbsp; |
 | :-: | :- |
 | <img src="https://github.com/aviv0zeriRPTX.png?size=100" width="80"/> | **Aviv Ozeri** – Full-Stack Developer |
 | <img src="https://github.com/vpbaki.png?size=100" width="80"/> | **Yuval Baki** – Forntend Developer & Marketing |
 | <img src="https://github.com/ThePinkPanther96.png?size=100" width="80"/> | **Gal Rozman** – DevOps Engineer |
 
-### 📬 Connect
 ---
+### 📬 Connect
 [![gmail](https://img.icons8.com/?size=1x&id=P7UIlhbpWzZm&format=png)](mailto:yuval.baki@reptillix.com)
 [![linkedin](https://img.icons8.com/?size=1x&id=xuvGCOXi8Wyg&format=png)](https://www.linkedin.com/company/reptillix)
 
