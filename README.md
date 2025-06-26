@@ -1,7 +1,7 @@
 <!-- .github/README.md — Reptillix organization profile -->
 
 <div align="center">
-  <img src="logo.png" width="280" alt="Reptillix logo"/>
+  <img src="logo.png" width="300" alt="Reptillix logo"/>
 
   <strong>Digital marketing &amp; software agency</strong><br/>
   UX/UI · AI-powered automation · SEO &amp; PPC · DevOps &amp; Cloud
