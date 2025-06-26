@@ -53,5 +53,5 @@
 ---
 
 <div align="center">
-  <sub>© 2025 Reptillix</sub>
+  <sub>Copyright © 2025 Reptillix</sub>
 </div>
