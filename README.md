@@ -51,7 +51,7 @@
 | <img src="https://github.com/ThePinkPanther96.png?size=100" width="80"/> | **Gal R** – DevOps & Infrastructure |
 
 ---
-### 📬 Connect
+### 📬 Conntact us
 [![gmail](https://img.icons8.com/?size=1x&id=P7UIlhbpWzZm&format=png)](mailto:yuval.baki@reptillix.com)
 [![linkedin](https://img.icons8.com/?size=1x&id=xuvGCOXi8Wyg&format=png)](https://www.linkedin.com/company/reptillix)
 
