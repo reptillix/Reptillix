@@ -11,9 +11,9 @@
 ### 🚀 What we do
 - **Full-stack development** – web & mobile apps, APIs, integrations  
 - **UX · UI · Branding** – research-driven design that converts  
-- **AI-powered automation** – Harness the power of Advanced Cloud Infrastructure  
+- **AI-powered automation** – Harness the power of AI in app development
 - **Growth marketing** – data-driven SEO, PPC & CRO campaigns  
-- **DevOps** – Advanced, cloud-base CI/CD solutions 
+- **DevOps** – Advanced cloud-based CI/CD solutions 
 
 ---
 ### 🧰 Tech toolbox
