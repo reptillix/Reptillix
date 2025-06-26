@@ -38,6 +38,9 @@
 <img src="https://github-readme-stats.vercel.app/api?username=vpbaki&show_icons=true&theme=radical"
      alt="Reptillix GitHub stats"/>
 
+<img src="https://github-readme-stats.vercel.app/api?username=thepinkpanther96&show_icons=true&theme=radical"
+     alt="Reptillix GitHub stats"/>
+
 <sub>*Numbers reflect public activity; private client code stays private.*</sub>
 
 ---
