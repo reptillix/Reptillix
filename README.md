@@ -32,7 +32,7 @@
 ---
 ### 📊 GitHub snapshot
 <!-- Stats work on a *user*; keeping reptillix-admin for now -->
-<img src="https://github-readme-stats.vercel.app/api?username=retillix-admin&show_icons=true&theme=radical"
+<img src="https://github-readme-stats.vercel.app/api?username=reptillix-admin&show_icons=true&theme=radical"
      alt="Reptillix GitHub stats"/>
 
 <sub>*Numbers reflect public activity; private client code stays private.*</sub>
