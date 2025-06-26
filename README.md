@@ -28,6 +28,8 @@
 ![n8n](https://img.shields.io/badge/n8n-EC407A?style=for-the-badge&logo=n8n&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![API](https://img.shields.io/badge/API-009688?style=for-the-badge&logo=openapiinitiative&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ---
 ### 📊 GitHub snapshot
