@@ -31,15 +31,12 @@
 
 ---
 ### 📊 GitHub snapshot
-<!-- Stats work on a *user*; keeping reptillix-admin for now -->
-<img src="https://github-readme-stats.vercel.app/api?username=aviv0zeriRPTX&show_icons=true&theme=radical"
-     alt="Reptillix GitHub stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=vpbaki&show_icons=true&theme=radical"
-     alt="Reptillix GitHub stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=thepinkpanther96&show_icons=true&theme=radical"
-     alt="Reptillix GitHub stats"/>
+<!-- three GitHub‐stats cards in one row -->
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=aviv0zeriRPTX&show_icons=true&theme=radical"  height="180" alt="Aviv's stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vpbaki&show_icons=true&theme=radical"         height="180" alt="Vlad's stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=thepinkpanther96&show_icons=true&theme=radical" height="180" alt="Gal's stats"/>
+</p>
 
 <sub>*Numbers reflect public activity; private client code stays private.*</sub>
 
