@@ -53,11 +53,6 @@
 
 ---
 
-## P.S. - Here is a random joke that'll make your day a little better! Currency of Reptillix U+1F609
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
----
-
 <div align="center">
   <sub>© 2025 Reptillix</sub>
 </div>
