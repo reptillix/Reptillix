@@ -2,7 +2,7 @@
 
 <div align="center">
   <!-- make the logo ~2× larger -->
-  <img src="logo.png" width="280" alt="Reptillix logo"/>
+  <img src="logo.png" width="400" alt="Reptillix logo"/>
 
   <h1>Reptillix</h1>
   <strong>Digital marketing &amp; software agency</strong><br/>
