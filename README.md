@@ -2,7 +2,7 @@
 
 <div align="center">
   <!-- make the logo ~2× larger -->
-  <img src="logo.png" width="400" alt="Reptillix logo"/>
+  <img src="logo.png" width="300" alt="Reptillix logo"/>
 
   <strong>Digital marketing &amp; software agency</strong><br/>
   UX/UI · AI-powered automation · SEO &amp; PPC · DevOps &amp; Cloud
@@ -15,7 +15,7 @@
 - **UX · UI · Branding** – research-driven design that converts  
 - **AI-powered automation** – Harness the power of Advanced Cloud Infrastructure  
 - **Growth marketing** – data-driven SEO, PPC & CRO campaigns  
-- **DevOps** – Advanced, Cloud-base CI/CD Solutions 
+- **DevOps** – Advanced, cloud-base CI/CD solutions 
 
 ### 🧰 Tech toolbox
 ---
