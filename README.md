@@ -43,7 +43,7 @@
 | :-: | :- |
 | <img src="https://github.com/aviv0zeriRPTX.png?size=100" width="80"/> | **Aviv Ozeri** – Full-Stack Developer |
 | <img src="https://github.com/vpbaki.png?size=100" width="80"/> | **Yuval Baki** – Forntend Developer & Marketing |
-| <img src="https://github.com/ThePinkPanther96.png?size=100" width="80"/> | **Gal Rozman** – DevOps Engineer |
+| <img src="https://github.com/ThePinkPanther96.png?size=100" width="80"/> | **Gal R** – DevOps Engineer |
 
 ---
 ### 📬 Connect
