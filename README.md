@@ -4,7 +4,6 @@
   <!-- make the logo ~2× larger -->
   <img src="logo.png" width="400" alt="Reptillix logo"/>
 
-  <h1>Reptillix</h1>
   <strong>Digital marketing &amp; software agency</strong><br/>
   UX/UI · AI-powered automation · SEO &amp; PPC · DevOps &amp; Cloud
 </div>
