@@ -1,9 +1,9 @@
 <!-- .github/README.md — Reptillix organization profile -->
 
 <div align="center">
-  <!-- local file that sits next to README.md -->
-  <img src="logo.png" width="140" alt="Reptillix logo"/>
-  
+  <!-- make the logo ~2× larger -->
+  <img src="logo.png" width="280" alt="Reptillix logo"/>
+
   <h1>Reptillix</h1>
   <strong>Digital marketing &amp; software agency</strong><br/>
   UX/UI · AI-powered automation · SEO &amp; PPC · DevOps &amp; Cloud
@@ -16,7 +16,7 @@
 - **UX · UI · Branding** – research-driven design that converts  
 - **AI-powered automation** – Harness the power of Advanced Cloud Infrastructure  
 - **Growth marketing** – data-driven SEO, PPC & CRO campaigns  
-- **CloudOps & DevOps** – CI/CD, AWS & Containerized Solutions 
+- **DevOps** – Advanced, Cloud-base CI/CD Solutions 
 
 ### 🧰 Tech toolbox
 ---
