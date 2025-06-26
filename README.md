@@ -1,9 +1,9 @@
 <!-- .github/README.md — Reptillix organization profile -->
 
 <div align="center">
-  <!-- 👉 Replace the logo path with the raw URL of your SVG/PNG -->
-  <img src="https://raw.githubusercontent.com/reptillix/.github/main/assets/reptillix-logo.svg"
-       width="140" alt="Reptillix logo"/>
+  <!-- local file that sits next to README.md -->
+  <img src="logo.png" width="140" alt="Reptillix logo"/>
+  
   <h1>Reptillix</h1>
   <strong>Digital marketing &amp; software agency</strong><br/>
   UX/UI · AI-powered automation · SEO &amp; PPC · DevOps &amp; Cloud
@@ -39,9 +39,9 @@
 ---
 | &nbsp; | &nbsp; |
 | :-: | :- |
-| <img src="https://github.com/ThePinkPanther96.png?size=100" width="80"/> | **Gal Rozman** – DevOps Engineer |
 | <img src="https://github.com/aviv0zeriRPTX.png?size=100" width="80"/> | **Aviv Ozeri** – Full-Stack Developer |
 | <img src="https://github.com/vpbaki.png?size=100" width="80"/> | **Yuval Baki** – Forntend Developer & Marketing |
+| <img src="https://github.com/ThePinkPanther96.png?size=100" width="80"/> | **Gal Rozman** – DevOps Engineer |
 
 ### 📬 Connect
 ---
