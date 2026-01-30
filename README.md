@@ -43,14 +43,6 @@
 <sub>*Numbers reflect public activity; private client code stays private.*</sub>
 
 ---
-### 👥 Meet the team
-| &nbsp; | &nbsp; |
-| :-: | :- |
-| <img src="https://github.com/aviv0zeriRPTX.png?size=100" width="80"/> | **Aviv Ozeri** – Full-Stack Developer |
-| <img src="https://github.com/vpbaki.png?size=100" width="80"/> | **Yuval Baki** – Forntend Developer & Marketing |
-| <img src="https://github.com/ThePinkPanther96.png?size=100" width="80"/> | **Gal R** – DevOps & Infrastructure |
-
----
 ### 📬 Conntact us
 [![gmail](https://img.icons8.com/?size=1x&id=P7UIlhbpWzZm&format=png)](mailto:yuval.baki@reptillix.com)
 [![linkedin](https://img.icons8.com/?size=1x&id=xuvGCOXi8Wyg&format=png)](https://www.linkedin.com/company/reptillix)
