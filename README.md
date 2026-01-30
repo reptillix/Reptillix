@@ -31,14 +31,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
----
-### 📊 GitHub snapshot
-<!-- three GitHub‐stats cards in one row -->
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aviv0zeriRPTX&show_icons=true&theme=radical"  height="180" alt="Aviv's stats"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=vpbaki&show_icons=true&theme=radical"         height="180" alt="Vlad's stats"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=thepinkpanther96&show_icons=true&theme=radical" height="180" alt="Gal's stats"/>
-</p>
 
 <sub>*Numbers reflect public activity; private client code stays private.*</sub>
 
